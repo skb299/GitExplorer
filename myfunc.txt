@@ -1,3 +1,7 @@
 onefunction -I have added a very important function here
 Secondfunction -I have added another very important function here
 Thirdfunction -I have added unnecessary function here
+
+
+
+added  a new chart function in branch.
