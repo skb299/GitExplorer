@@ -4,3 +4,4 @@
 node_module/
 assets/videos/
 !other.js
+*.php
