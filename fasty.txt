@@ -1,1 +1,2 @@
 This is fasty branch
+we are adding new function
